@@ -1,5 +1,3 @@
-
-
     [wind]
     [clop clop clop]
 KING ARTHUR:  Whoa there!
@@ -29,5 +27,3 @@ ARTHUR:  The swallow may fly south with the sun or the house martin or the
     our land?
 SOLDIER #1:  Are you suggesting coconuts migrate?
 ARTHUR:  Not at all.  They could be carried.
-
-
